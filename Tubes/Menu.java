@@ -156,7 +156,7 @@ public class Menu extends javax.swing.JFrame implements Runnable{
         jFrame2.getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(108, 42, -1, -1));
 
         playScore.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
-        jFrame2.getContentPane().add(playScore, new org.netbeans.lib.awtextra.AbsoluteConstraints(232, 42, 22, 15));
+        jFrame2.getContentPane().add(playScore, new org.netbeans.lib.awtextra.AbsoluteConstraints(212, 42, 60, 15));
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel7.setText("NAME  :");
